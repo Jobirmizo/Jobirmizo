@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hrefs1 {
+    text-decoration: none;
+}
+
+.head2 {
+    background: url(photos/back.png) no-repeat center/cover;
+    position: relative;
+    height: 500px;
+    margin-bottom: 150px;
+}
+
+.innopolis_info1 {
+    position: absolute;
+    border: 1px solid white;
+    width: 320px;
+    background: blue;
+    text-align: center;
+    margin-left: 900px;
+    color: white;
+    bottom: -150px;
+    right: 0;
+}
+
+.box1_2_2 {
+    width: 250px;
+    text-align: center;
+
+}
+
+.all_box {
+    display: flex;
+}
+
+.head1 {
+    display: flex;
+}
+
+.menu {
+    margin-left: 80px;
+}
+
+.surprise {
+    background: url(photos/box_surprise.png) no-repeat center/cover;
+    border: none;
+    width: 302px;
+    height: 303px;
+    border-radius: 100%;
+    margin-top: 50px;
+}
+
+.bg {
+    display: flex;
+    background: url(photos/background1.png) no-repeat center/cover;
+}
+
+.tx_blok {
+    text-align: end;
+    margin-left: 100px;
+}
+
+.box1 {
+    width: 283px;
+}
+
+.box1 {
+    background: url(photos/valhalla.png) no-repeat center/cover;
+    width: 284px;
+    height: 284px;
+    text-align: start;
+    padding: 22px 0 0 17px;
+}
+
+.box_1 {
+    width: 210px;
+    height: 285px;
+    border: none;
+    border-radius: 8.57px;
+    background: #97B13C;
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+.box_2 {
+    width: 245.6px;
+    border: none;
+    background: #97B13C;
+    text-align: center;
+
+}
+
+.footer_boxs {
+    display: flex;
+}
+.boxs{
+    display: flex;
+}
+.imgs1{
+    background: url(photos/valhalla.png)no-repeat center/cover;
+    width: 283px;
+    height: 283px;
+}
+.name-films{
+    padding-top: 22px;
+
+}
+.box-line1{
+    display: flex;   
+}
+.box-line1 a{
+    color: white;
+    text-decoration: none;  
+}
+.box-line2 a{
+    color: white;
+    text-decoration: none;  
+}
+.box-line3 a{
+    color: white;
+    text-decoration: none;  
+}
+.imgs2{
+    background: url(photos/ice.png)no-repeat center/cover;
+    width: 283px;
+    height: 283px;
+}
+.imgs3{
+    background: url(photos/astronaut.png)no-repeat center/cover;
+    width: 283px;
+    height: 283px;
+}
+.box-line2{
+    display: flex;
+}
+.box-line3{
+    display: flex;
+}
+.imgs4{
+    background: url(photos/kill_your_self.png)no-repeat center/cover;
+    width: 283px;
+    height: 283px;
+}
+.imgs5{
+    background: url(photos/war_of_world.png)no-repeat center/cover;
+    width: 283px;
+    height: 283px;
+}
+.imgs6{
+    background: url(photos/place_line.png)no-repeat center/cover;
+    width: 283px;
+    height: 283px;
+}
+.imgs7{
+    background: url(photos/gravity.png)no-repeat center/cover;
+    width: 283px;
+    height: 283px;
+}
+.imgs8{
+    background: url(photos/chapa.png)no-repeat center/cover;
+    width: 283px;
+    height: 283px;
+}
+.imgs9{
+    background: url(photos/life.png)no-repeat center/cover;
+    width: 283px;
+    height: 283px;
+}
