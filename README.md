@@ -1,5 +1,5 @@
 # 💫 About Me:
-It`s honor to say me that I`m BackEnd developer in ASP.NET Core. I Consider <br>myselft as an Engineer not a programmer.<br><br>the reason is:<br>Programmer write codes for given programm;<br>Eningeer Finds a solution to given problem;
+It`s honor to say me that I`m BackEnd developer in ASP.NET Core. I Consider <br>myselft as an Engineer not a programmer.<br><br>the reason is:<br>Programmer writes code for the given programm;<br>Engineer Finds a solution to given problem;
 
 
 ## 🌐 Socials:
